@@ -1,4 +1,4 @@
-package com.htd.compressfile.zipmasterpro
+package com.htd.compressfile.zipmasterpro.presentation.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
